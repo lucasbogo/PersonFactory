@@ -2,7 +2,7 @@
 
 ### Primeiro exercício em Python seguindo o padrão **Factory**
 
-#### 1. Identificar as classes
+#### Identificar as classes
 #### PJ, PF
 #### Para pessoa podemos definir o calculaIR()
 #### PJ - IR = 15% da renda anual
